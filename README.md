@@ -3,7 +3,7 @@
 
 **Colab:** [Click to run the source code on Google Colab.](https://drive.google.com/file/d/1EvKv088ijMo53aoazquB1AYNNe0wLY9R/view?usp=sharing)
 
-# Aspects
+# Specs
 - **Programming Language:** `Python V3.6.9.`
 - **numpy:** `V1.18.5` 
 - **matplotlib:** `V3.3.2` 
