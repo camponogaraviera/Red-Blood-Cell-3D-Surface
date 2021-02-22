@@ -11,7 +11,7 @@
 # Overview
 > <img src="https://render.githubusercontent.com/render/math?math=z=\pm D_0 \sqrt{1 - \frac{4(x^2+y^2)}{D_{0}^2}} \left( a_0 + \frac{a_1(x^2+y^2)}{D_{0}^2}+\frac{a_2(x^2+y^2)^2}{D_{0}^4}\right).">
 
-Starting from the above equation for the average unstressed shape of a single Red Blood Cell, according to Evans, E.A., and R. Skalak [1, 1980], using [NumPy](https://numpy.org/doc/stable/) and [MatplotLib](https://matplotlib.org/contents.html) I computed the RBC surface and its projection.
+Starting from the above equation for the average unstressed shape of a single Red Blood Cell, according to Evans, E.A., and R. Skalak [1, 1980], I computed the RBC surface and its projection using [NumPy](https://numpy.org/doc/stable/) and [MatplotLib](https://matplotlib.org/contents.html).
 
 
 ![](RBC_Implementation.gif)
