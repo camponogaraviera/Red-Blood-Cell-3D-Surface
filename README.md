@@ -1,7 +1,7 @@
 # Red Blood Cell 3D-Surface Triangulation
 **Description:** A rough python implementation of Evans, E. A., and R. Skalak (1980) Red Blood Cell Model. This implementation was developed in October 2019 for a Holographic Tomography application with red blood cells. 
 
-<a><img valign="middle" src="https://www.tensorflow.org/images/colab_logo_32px.png" width="40"></a> 
+<a href="https://drive.google.com/file/d/1EvKv088ijMo53aoazquB1AYNNe0wLY9R/view?usp=sharing"><img valign="middle" src="https://www.tensorflow.org/images/colab_logo_32px.png" width="40"></a> 
 [Run the source code on Google Colab.](https://drive.google.com/file/d/1EvKv088ijMo53aoazquB1AYNNe0wLY9R/view?usp=sharing)
 
 # Specs
