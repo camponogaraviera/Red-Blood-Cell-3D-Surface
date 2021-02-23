@@ -1,5 +1,5 @@
 # Red Blood Cell 3D-Surface Triangulation
-**Description:** A rough Python implementation of Evans, E. A., and R. Skalak (1980) Red Blood Cell Model. This implementation was developed in October 2019 for a Holographic Tomography application with red blood cell. 
+**Description:** A rough python implementation of Evans, E. A., and R. Skalak (1980) Red Blood Cell Model. This implementation was developed in October 2019 for a Holographic Tomography application with red blood cells. 
 
 **Colab:** [Click to run the source code on Google Colab.](https://drive.google.com/file/d/1EvKv088ijMo53aoazquB1AYNNe0wLY9R/view?usp=sharing)
 
