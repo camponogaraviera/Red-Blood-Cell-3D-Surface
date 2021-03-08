@@ -5,7 +5,7 @@ A rough python implementation of Evans, E. A., and R. Skalak (1980) Red Blood Ce
 [Run the source code on Google Colab.](https://drive.google.com/file/d/1EvKv088ijMo53aoazquB1AYNNe0wLY9R/view?usp=sharing)
 
 # Specs
-- **Programming Language:** `Python V3.6.9.`
+- **Python:** `V3.6.9.`
 - **numpy:** `V1.18.5` 
 - **matplotlib:** `V3.3.2` 
 
